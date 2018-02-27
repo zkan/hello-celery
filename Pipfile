@@ -8,6 +8,7 @@ name = "pypi"
 [packages]
 
 celery = "==4.1.0"
+redis = "==2.10.6"
 
 
 [dev-packages]
